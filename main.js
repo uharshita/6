@@ -67,7 +67,7 @@ function draw() {
 
 		if(song1_status == false){
 			song1.play();
-			document.getElementById("song").innerHTML = "Playing - Harry Porter Theme song";
+			document.getElementById("song").innerHTML = "Playing - Shape Of You  song";
 		}
 	}
 
